@@ -1,0 +1,241 @@
+body {
+	margin: 0px;
+	background-color: black;
+}
+
+/*---TOP BAR---*/
+.top-bar {
+    position: fixed;
+    width: 100%;
+    background-color: rgba(0,0,127,1);
+    color: white;
+    z-index: 20;
+}
+
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+#logo {
+    float: left;
+    padding: 0px 10px;
+    font-size: 36px;
+    line-height: 54px;
+    font-family: Times New Roman;
+}
+
+/*---SEARCH BAR---*/
+#search-bar {
+	background-color: white;
+	float: left;
+    margin: 12px 50px;
+    height: 20px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-color: black;
+    }  
+
+.search-icon {
+    margin-right: 10px;
+    float: left;
+    height: 20px;
+    opacity: 0.5;
+} 
+
+ input[type="text"] {
+ border: 0px;
+ float: left;
+ display: block;
+ height: 18px;
+ outline: none;
+ width: 200px;
+}
+
+.pyramid {
+	height: 48px;
+	margin-left: -350;
+}
+
+#buttons-container {
+	height: 10px;
+}
+
+/*---ACCOUNT BUTTONS---*/
+
+#login-button {
+	font-weight:700;
+    background-color: white;
+    border-radius: 20px;
+    border: 0px;
+    height: 30px;
+    width: 77px;
+    font-weight: 800;
+    margin-left: 481px;
+    margin-top: -37px;
+}
+
+/*---MAIN PAGE---*/
+
+#Title {
+	width: 100%;
+	text-align: center;
+	font-size: 50px;
+	font-weight: 800;
+	letter-spacing: 3px;
+	color: #FFD801;
+	padding-top:200px;
+}
+
+#tagline {
+	width: 100%;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	padding-top: 50px;
+}
+
+
+#Email {
+	font: bold;
+	text-align: center;
+	padding-left: 390px;
+	padding-top: 55px;
+	width: 1600px;
+
+}
+
+#Password {
+	font: bold;
+	text-align: center;
+	padding-top: 50px;
+	padding-left: 390px;
+}
+
+#Signup {
+	font-weight: 800;
+	padding-top: 10px;
+	background-color: white;
+	margin-top: 45px;
+	margin-left: -123px;
+}
+
+/*---PROFILE PAGE---*/
+
+.category {
+	width: 100%;
+	text-align: left;
+	font-size: 20px;
+	color: white;
+	padding-top: 40px;
+	float: left;
+
+}
+
+.pyramid2 {
+	height: 48px;
+	margin-top: -36px;
+
+}
+
+#heading {
+	font-size: 30;
+	margin: 0px 0px 0px 70px;
+
+}
+
+.jovi {
+	height: 150;
+	margin-top: 60;
+	margin-left: 800;
+	position: static;
+}
+
+#Name {
+	width: 100%;
+	text-align: left;
+	font-size: 20px;
+	color: #FFD801;
+	padding-top: 5px;
+	margin-left:790;
+
+}
+
+.content {
+    margin: 0 auto;
+    position: fixed;
+    width: 960px;
+
+}
+/*---SEARCH PAGE---*/
+
+#Subtitle {
+	width: 100%;
+	text-align: left;
+	font-size: 20px;
+	color: white;
+	padding-top: 40px;
+	float: left;
+
+}
+
+#majorbar {
+	float: left;
+
+}
+
+#locationbar {
+
+}
+
+.Specific {
+	width: 100%;
+	text-align: left;
+	font-size: 20px;
+	color: white;
+	padding-top: 40px;
+	float: left;
+	line-height: 20px;
+}
+
+#Subtitle {
+	width: 100%;
+	text-align: left;
+	font-size: 20px;
+	color: #FFD801;
+	padding-top: 5px;
+
+
+}
+
+
+#pages {
+	float: right;
+	margin-right: 20px;
+	margin-left: 0 auto;
+
+
+}
+
+#current-page {
+	display: inline-block;
+	margin: 10px;
+	color: #FFD801;
+}
+
+.page-button {
+	margin: 0 auto;
+}
+
+#Listing {
+
+	text-align: left;
+	color: white;
+	width: 40%;
+	margin-left: 400
+
+}
+
+#listing2 {
+
+}
